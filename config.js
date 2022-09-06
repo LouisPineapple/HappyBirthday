@@ -22,7 +22,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-       "生日快乐！": "C:\Users\10154\Pictures\生日照片.jpg"
+        "生日快乐！": "C:\Users\10154\Pictures\生日照片.jpg"
         //"心爱的小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },

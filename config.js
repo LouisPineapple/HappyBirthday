@@ -21,13 +21,14 @@ var config = {
      * 如果不要图片的话, 直接在每行开头写两个斜杠注释即可, 例如下面的 "今天是你的生日" 的图片就不会展示了:)
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
-    imgs: {"C:\Users\10154\Pictures\生日照片.jpg"
+    imgs: {
+        "生日快乐！": "C:\Users\10154\Pictures\生日照片.jpg"
         //"心爱的小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开~始",
+        turn_on: "开始~",
         play: "music",
         bannar_coming: "color",
         balloons_flying: "好像少点东西",
